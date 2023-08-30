@@ -187,3 +187,7 @@ body {
     transform: scale(1);
   }
 }
+
+a {
+  -webkit-tap-highlight-color: transparent !important;
+}
