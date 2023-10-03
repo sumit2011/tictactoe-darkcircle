@@ -188,3 +188,6 @@ body {
   }
 }
 
+a {
+  -webkit-tap-highlight-color: transparent !important;
+}
